@@ -3,7 +3,7 @@
 This Repo contains scripts to install different Exporters for prometheus  
 
 Currently there are scripts to install :
-- Apache2 exporter
+- Apache2 Exporter
 - Node Exporter
 - Mysql Exporter
 - Asterisk Exporter
