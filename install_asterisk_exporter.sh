@@ -37,7 +37,7 @@ Type=simple
 User=root
 Group=root
 
-ExecStart=/usr/local/bin/asterisk_exporter.py
+ExecStart=python /usr/local/bin/asterisk_exporter.py
 
 [Install]
 WantedBy=multi-user.target
