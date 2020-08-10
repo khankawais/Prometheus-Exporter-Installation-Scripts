@@ -1,4 +1,7 @@
-# Prometheus Exporter Installation Scripts
+# Prometheus Installation Scripts
+
+- **Prometheus Installation Script**
+- **Grafana Installation Script**
 
 This Repo contains scripts to install different Exporters for prometheus  
 
